@@ -30,7 +30,7 @@ Before running the scripts, you need to make them executable. Use the following 
 ```bash
 chmod +x <script_name>
 ```
-Replace `<script_name>` with the name of the script file (e.g., `code_runner.sh`).
+Replace `<script_name>` with the name of the script file (e.g., `code_runner.sh` OR FOR COOL NAMES `runner`).
 
 ---
 
