@@ -7,6 +7,22 @@ This guide explains how to use the provided scripts by setting up proper permiss
 
 ---
 
+## Prerequisites
+
+1. **Git**: Ensure you have Git installed on your machine.
+2. **Valgrind**: Install Valgrind to perform memory leak checks.
+3. **Permissions**: If you want to run the scripts globally, you may need root or sudo privileges to install them into `/usr/local/bin`.
+
+## Installation Instructions
+
+### Step 1: Clone the Repository
+
+First, clone the repository into your local machine using the following command:
+
+```bash
+git clone https://github.com/your-repository-link.git
+```
+
 ## **Setup**
 
 ### **1. Grant Execution Permissions**
