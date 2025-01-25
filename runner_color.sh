@@ -45,7 +45,7 @@ ask_user() {
 
 # Start script
 echo -e "${DIVIDER}"
-echo -e "${BOLD}${CYAN}Valgrind Runner - Interactive Script${RESET}"
+echo -e "${BOLD}${CYAN}42 Code Runner - Interactive Script By Msalim${RESET}"
 echo -e "${DIVIDER}"
 
 # Ask if the user is in the executable directory
